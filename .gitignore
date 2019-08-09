@@ -1,0 +1,8 @@
+*.pyc
+__pycache__
+venv
+db.sqlite3
+db.djlocal
+.DS_Store
+.idea
+node_modules

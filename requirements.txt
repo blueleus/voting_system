@@ -1,0 +1,5 @@
+# Base
+Flask==1.1.1
+Jinja2==2.10
+lxml==4.2.5
+requests==2.20.1
