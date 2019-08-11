@@ -1,4 +1,4 @@
 # Flask
-FLASK_APP=voting_system.hello
+FLASK_APP=wsgi
 FLASK_ENV=development
 SECRET_KEY=ZQkKrokS/bG5Zj4bT6AmquRTRV3xjE1oCc2fR6eTAlvZZ+y2gBrQLBuZB6T3sY4j/Kb2F3vD9uH/wCp8FSf6Gg==
