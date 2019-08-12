@@ -6,3 +6,4 @@ db.djlocal
 .DS_Store
 .idea
 node_modules
+instance/voting_system.sqlite
